@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc.iml" filepath="$PROJECT_DIR$/netease-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-api/netease-rpc-api.iml" filepath="$PROJECT_DIR$/netease-rpc-api/netease-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-default/netease-rpc-default.iml" filepath="$PROJECT_DIR$/netease-rpc-default/netease-rpc-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-grpc/netease-rpc-grpc.iml" filepath="$PROJECT_DIR$/netease-rpc-grpc/netease-rpc-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-hessian/netease-rpc-hessian.iml" filepath="$PROJECT_DIR$/netease-rpc-hessian/netease-rpc-hessian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-http/netease-rpc-http.iml" filepath="$PROJECT_DIR$/netease-rpc-http/netease-rpc-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-injvm/netease-rpc-injvm.iml" filepath="$PROJECT_DIR$/netease-rpc-injvm/netease-rpc-injvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-memcached/netease-rpc-memcached.iml" filepath="$PROJECT_DIR$/netease-rpc-memcached/netease-rpc-memcached.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-redis/netease-rpc-redis.iml" filepath="$PROJECT_DIR$/netease-rpc-redis/netease-rpc-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-rmi/netease-rpc-rmi.iml" filepath="$PROJECT_DIR$/netease-rpc-rmi/netease-rpc-rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-thrift/netease-rpc-thrift.iml" filepath="$PROJECT_DIR$/netease-rpc-thrift/netease-rpc-thrift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netease-rpc-webservice/netease-rpc-webservice.iml" filepath="$PROJECT_DIR$/netease-rpc-webservice/netease-rpc-webservice.iml" />
+    </modules>
+  </component>
+</project>

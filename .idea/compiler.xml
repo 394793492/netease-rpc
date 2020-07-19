@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netease-rpc-hessian" />
+        <module name="netease-rpc-rmi" />
+        <module name="netease-rpc-injvm" />
+        <module name="netease-rpc-memcached" />
+        <module name="netease-rpc-default" />
+        <module name="netease-rpc-grpc" />
+        <module name="netease-rpc-http" />
+        <module name="netease-rpc-api" />
+        <module name="netease-rpc-webservice" />
+        <module name="netease-rpc-thrift" />
+        <module name="netease-rpc-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netease-rpc" target="1.6" />
+      <module name="netease-rpc-api" target="1.6" />
+      <module name="netease-rpc-default" target="1.6" />
+      <module name="netease-rpc-grpc" target="1.6" />
+      <module name="netease-rpc-hessian" target="1.6" />
+      <module name="netease-rpc-http" target="1.6" />
+      <module name="netease-rpc-injvm" target="1.6" />
+      <module name="netease-rpc-memcached" target="1.6" />
+      <module name="netease-rpc-redis" target="1.6" />
+      <module name="netease-rpc-rmi" target="1.6" />
+      <module name="netease-rpc-thrift" target="1.6" />
+      <module name="netease-rpc-webservice" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
